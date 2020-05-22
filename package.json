@@ -1,0 +1,11 @@
+{
+  "name": "cloud-functions-testmailer-service",
+  "version": "1.0.0",
+  "description": "Send short-lived test emails 'serverlessly' with Nodemailer and receive them on Ethereal",
+  "main": "index.js",
+  "author": "Mikael Vesavuori",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.4.6"
+  }
+}
